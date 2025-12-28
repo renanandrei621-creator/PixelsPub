@@ -11,7 +11,7 @@
 
 Pixels needs **WRITE_SECURE_SETTINGS** permission in order to work (this is NOT rooting).
 
-----------------------
+adb shell pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS----------------------
 
 ### TL;DR
 
